@@ -3146,8 +3146,8 @@ fieldset[disabled] .btn-warning.active {
 }
 .btn-danger {
   color: #fff;
-  background-color: #a3d147;
-  border-color: #a3d147;
+  background-color: #7aa329;
+  border-color: #7aa329;
 }
 .btn-danger:hover,
 .btn-danger:focus,
@@ -3182,11 +3182,11 @@ fieldset[disabled] .btn-danger:active,
 .btn-danger.disabled.active,
 .btn-danger[disabled].active,
 fieldset[disabled] .btn-danger.active {
-  background-color: #7aa329;
-  border-color: #a3d147;
+  background-color: #5c7a1f;
+  border-color: #7aa329;
 }
 .btn-danger .badge {
-  color: #d9534f;
+  color: #5c7a1f;
   background-color: #fff;
 }
 .btn-link {
@@ -7124,7 +7124,7 @@ Original style from softwaremaniacs.org (c) Ivan Sagalaev <Maniac@SoftwareManiac
 .lasso .hljs-attribute,
 .coffeescript .hljs-property,
 .hljs-phony {
-  color: #8888ff;
+  color: #88F;
 }
 .hljs-keyword,
 .hljs-id,
@@ -7233,7 +7233,7 @@ Original style from softwaremaniacs.org (c) Ivan Sagalaev <Maniac@SoftwareManiac
   padding: 0;
 }
 .body .main-header {
-  background: #ffffff;
+  background: #fff;
 }
 .body .main-header .navbar {
   margin-bottom: 0;
@@ -7284,7 +7284,7 @@ Original style from softwaremaniacs.org (c) Ivan Sagalaev <Maniac@SoftwareManiac
   border-bottom: none;
 }
 .body .content .entry:nth-child( even ) {
-  background: #f3f3f3;
+  background: #F3F3F3;
 }
 .body .content .entry .title {
   margin: 0 0 5px 10px;
@@ -7321,7 +7321,7 @@ Original style from softwaremaniacs.org (c) Ivan Sagalaev <Maniac@SoftwareManiac
 .body .content .entry .readme {
   font-size: 14px;
   margin-top: 10px;
-  background: #ffffff;
+  background: #fff;
   padding: 10px 12px;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
@@ -7351,16 +7351,16 @@ Original style from softwaremaniacs.org (c) Ivan Sagalaev <Maniac@SoftwareManiac
   color: #6B8E23;
 }
 .light-green {
-  color: #8ab82e;
+  color: #8ab72d;
 }
 .white {
-  color: #ffffff !important;
+  color: #fff !important;
 }
 .green-bg {
   background: #6B8E23;
 }
 .light-green-bg {
-  background: #8ab82e;
+  background: #8ab72d;
 }
 .no-bg {
   background: none !important;
