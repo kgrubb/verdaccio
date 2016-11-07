@@ -3060,8 +3060,8 @@ fieldset[disabled] .btn-warning.active {
 }
 .btn-danger {
   color: #fff;
-  background-color: #d9534f;
-  border-color: #d43f3a;
+  background-color: #3e5017;
+  border-color: #415418;
 }
 .btn-danger:hover,
 .btn-danger:focus,
@@ -3096,8 +3096,8 @@ fieldset[disabled] .btn-danger:active,
 .btn-danger.disabled.active,
 .btn-danger[disabled].active,
 fieldset[disabled] .btn-danger.active {
-  background-color: #d9534f;
-  border-color: #d43f3a;
+  background-color: #242f0d;
+  border-color: #415418;
 }
 .btn-danger .badge {
   color: #d9534f;
@@ -4194,7 +4194,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
 }
 .navbar-default {
-  background-color: #f8f8f8;
+  background-color: #6B8E23;
   border-color: #e7e7e7;
 }
 .navbar-default .navbar-brand {
