@@ -3146,8 +3146,8 @@ fieldset[disabled] .btn-warning.active {
 }
 .btn-danger {
   color: #fff;
-  background-color: #d9534f;
-  border-color: #d43f3a;
+  background-color: #a3d147;
+  border-color: #a3d147;
 }
 .btn-danger:hover,
 .btn-danger:focus,
@@ -3182,8 +3182,8 @@ fieldset[disabled] .btn-danger:active,
 .btn-danger.disabled.active,
 .btn-danger[disabled].active,
 fieldset[disabled] .btn-danger.active {
-  background-color: #d9534f;
-  border-color: #d43f3a;
+  background-color: #7aa329;
+  border-color: #a3d147;
 }
 .btn-danger .badge {
   color: #d9534f;
@@ -7347,20 +7347,20 @@ Original style from softwaremaniacs.org (c) Ivan Sagalaev <Maniac@SoftwareManiac
 .no-results code {
   font-size: 1.2em;
 }
-.red {
-  color: #cc3d33;
+.green {
+  color: #6B8E23;
 }
-.light-red {
-  color: #d6645c;
+.light-green {
+  color: #8ab82e;
 }
 .white {
   color: #ffffff !important;
 }
-.red-bg {
-  background: #cc3d33;
+.green-bg {
+  background: #6B8E23;
 }
-.light-red-bg {
-  background: #d6645c;
+.light-green-bg {
+  background: #8ab82e;
 }
 .no-bg {
   background: none !important;
