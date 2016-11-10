@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/kgrubb/verdaccio/color-ui/lib/static/logo.png"></p>
+
 `verdaccio` is a fork of `sinopia`. It aims to keep backwards compatibility with `sinopia`, while keeping up with npm changes.
 
 `verdaccio` - a private/caching npm repository server
